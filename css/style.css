@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+ 
+h1{
+    color: rgb(119, 0, 255);
+    text-decoration: overline;
+    text-align: center;
+}
+h2{ 
+    color: rgb(255, 0, 0);
+    text-decoration: overline;
+    text-align: center;
+}
+p{ 
+    front-size: 50px;  
